@@ -1,7 +1,7 @@
 # Cartswapulator
 Intercycle cartridge swapping TAS hardware and software.
 This board is designed to replay intercycle cartridge swapping tool assessted speedruns like those created by [100th Coin](https://github.com/100thCoin/TriCNES/tree/main).
-<!-- ![Cartswapulator](https://github.com/decrazyo/cartswapulator/blob/master/cartswapulator.jpg) -->
+![Cartswapulator](https://github.com/decrazyo/cartswapulator/blob/main/cartswapulator.jpg)
 [Demo](https://www.youtube.com/watch?v=atbIClUt5tI)
 
 ## Hardware
